@@ -180,7 +180,7 @@
                 }
                 
                 #home {
-                    background-image: url(/imgs/hero-img.png);
+                    background-image: url(../imgs/hero-img.png);
                     background-position: center;
                     background-repeat: no-repeat;
                     background-size: cover;
@@ -275,7 +275,7 @@
                     display: flex;
                     gap: 0rem;
                     .part1 {
-                        background-image: url(/imgs/about-img.png);
+                        background-image: url(../imgs/about-img.png);
                         background: black opacity($color: #999999);
                         background-position: center;
                         background-repeat: no-repeat;
@@ -396,13 +396,13 @@
                         /* 1:1 Aspect Ratio */
                     }
                     #raev-image {
-                        background: url(/imgs/dushawn-jovic-cruUfe5g1Zk-unsplash.png) center/cover;
+                        background: url(../imgs/dushawn-jovic-cruUfe5g1Zk-unsplash.png) center/cover;
                     }
                     #djae-image {
-                        background: url(/imgs/zac-bromell-mk2iP2CQQlQ-unsplash.png) center/cover;
+                        background: url(../imgs/zac-bromell-mk2iP2CQQlQ-unsplash.png) center/cover;
                     }
                     #sam-image {
-                        background: url(/imgs/chichi-onyekanne-rwhBah8HjI0-unsplash.png) center/cover;
+                        background: url(../imgs/chichi-onyekanne-rwhBah8HjI0-unsplash.png) center/cover;
                     }
                     .overlay {
                         position: absolute;
@@ -483,7 +483,7 @@
                 }
                 
                 #our-music {
-                    background-image: url(/imgs/roots-music.png);
+                    background-image: url(../imgs/roots-music.png);
                     background: black opacity($color: #999999);
                     background-position: center;
                     background-repeat: no-repeat;
@@ -565,7 +565,7 @@
                 }
                 
                 #discover {
-                    background-image: url(/imgs/roots-music.png);
+                    background-image: url(../imgs/roots-music.png);
                     background: black opacity($color: #999999);
                     background-position: center;
                     background-repeat: no-repeat;
